@@ -94,7 +94,6 @@
 小白通道
 <video width="100%" height="auto" controls>
   <source src="https://xfatcat.ccwu.cc/dev-sidecar从头使用.mp4" type="video/mp4">
-  您的浏览器不支持 HTML5 视频。
 </video>
 
 ### 2.1、DevSidecar桌面应用
